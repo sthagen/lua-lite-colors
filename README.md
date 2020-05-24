@@ -11,15 +11,17 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81507632-9ead7780-92f6-11ea-85e9-7cfb9ffa97ae.png)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](https://user-images.githubusercontent.com/57670615/81137677-94bdfa00-8f2d-11ea-9224-3d70a5ec3101.png)
+[`liqube`](colors/liqube.lua?raw=1) | ![liqube_preview](https://user-images.githubusercontent.com/49284552/82159394-0c751880-988e-11ea-963d-7a25497a8fee.png)
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](https://user-images.githubusercontent.com/3920290/80304201-62353400-87ac-11ea-9b13-9ca1b9db0f99.png)
 [`monokai`](colors/monokai.lua?raw=1) | ![monokai_preview](https://user-images.githubusercontent.com/3920290/80307643-43419c80-87c2-11ea-9f04-580d6acf6252.png)
-[`winter`](colors/winter.lua?raw=1) |![winter_preview](https://user-images.githubusercontent.com/3920290/80304194-5c3f5300-87ac-11ea-9acf-33892579093e.png)
+[`winter`](colors/winter.lua?raw=1) | ![winter_preview](https://user-images.githubusercontent.com/3920290/80304194-5c3f5300-87ac-11ea-9acf-33892579093e.png)
 
 ## Light
 
 Theme | Preview
 ------|-----------------------------------------
 [`github`](colors/github.lua?raw=1) | ![github_preview](https://user-images.githubusercontent.com/3920290/80308013-800e9300-87c4-11ea-88a7-1f56104a7423.png)
-[`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](https://user-images.githubusercontent.com/1621631/80608663-632dc600-8a37-11ea-986c-dc8cba846ae6.png)
+[`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](https://user-images.githubusercontent.com/3920290/81503910-233fcc00-92de-11ea-9d6d-0a32212e6f02.png)
 
